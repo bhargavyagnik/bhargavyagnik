@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavyagnik" alt="bhargavyagnik" /> </p>
 
-- 🌱 I’m currently learning **RL**
-
 - 👯 I’m looking to collaborate on **ML projects**
 
 - 👨‍💻 All of my projects are available at [https://www.bhargavyagnik.ml/](https://www.bhargavyagnik.ml/)
