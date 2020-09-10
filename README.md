@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargav Yagnik</h1>
 <h3 align="center">Working on projects in Deep Learning. Keen to work on revolutionary ideas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavyagnik" alt="bhargavyagnik" /> </p>
 
 - 👯 I’m looking to collaborate on **ML projects**
 
