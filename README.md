@@ -1,4 +1,4 @@
-<a title="Hello" href="https://www.bhargavyagnik.ml/"><img align="left" src="https://github.com/bhargavyagnik/bhargavyagnik.github.io/blob/master/static/git_main.gif"/></a>
+<a title="Hello" href="https://www.bhargavyagnik.ml/"><img align="center" src="https://github.com/bhargavyagnik/bhargavyagnik.github.io/blob/master/static/git_main.gif"/></a>
 
 <h3 align="center">Currently Working on chrome extension for Toxicity on any social media and also a chatbot application . Keen to work on revolutionary ideas.</h3>
 
