@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhargav Yagnik</h1>
+<a title="Hello" href="https://www.bhargavyagnik.ml/"><img align="center" src="https://github.com/bhargavyagnik/bhargavyagnik.github.io/blob/master/static/welcome_github.png"/></a>
+
 <h3 align="center">Currently Working on chrome extension for Toxicity on any social media and also a chatbot application . Keen to work on revolutionary ideas.</h3>
 
 
