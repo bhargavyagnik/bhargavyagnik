@@ -8,8 +8,7 @@
   <a title="Portfolio, bhargavyagnik.ml" href="https://www.bhargavyagnik.ml/"><img alt="My portfolio, bhargavyagnik.ml" src="https://github.com/bhargavyagnik/bhargavyagnik/blob/master/img/portfolio_btn.png" width="130" /></a>
   <a title="Blog, bhargavyagnik.ml" href="https://www.bhargavyagnik.ml/blog"><img alt="My Blog" src="https://github.com/bhargavyagnik/bhargavyagnik/blob/master/img/blog_btn.png" width="130" /></a>
   </p>
-  
-  # Contact me at 
+ 
   
   <p align="center">
   <a href="https://twitter.com/yagnikbhargav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yagnikbhargav" height="30" width="30" /></a>
