@@ -4,7 +4,9 @@
 
 - 👯 I’m looking to collaborate on **ML projects**
 
-<a title="Portfolio, bhargavyagnik.ml" href="https://www.bhargavyagnik.ml/"><img alt="My portfolio, bhargavyagnik.ml" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a>
+<a title="Portfolio, bhargavyagnik.ml" href="https://www.bhargavyagnik.ml/"><img alt="My portfolio, bhargavyagnik.ml" src="https://media.tenor.com/images/32260102aca4c0ee995b40542968798d/tenor.gif" width="130" /></a>
+
+
 
 - 📝 I regulary write articles on [https://www.bhargavyagnik.ml/blog](https://www.bhargavyagnik.ml/blog)
 
